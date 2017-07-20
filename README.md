@@ -38,9 +38,6 @@ API DE LIBRE ACCESO PARA CHILE
 - [API Tiempo Meteored.cl](http://api.meteored.cl/): La Api de Meteored.cl es una aplicación con la que usted puede obtener la predicción meteorológica de las localidades que desee a diario.
 
 
-### Servicio financiero
-- [API de sistema financiero](http://api.sbif.cl/) :  La API del sistema financiero, te permite extraer el valor del dolar, euro, UF, entre otros. solo necesitas una key que es entregada gratuitamente y te permite 10mil request al mes [key](http://api.sbif.cl/uso-de-api-key.html)
-
 #### Cómo Aportar:
 
 Seguir el siguiente formato:
