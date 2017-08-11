@@ -44,3 +44,8 @@ Seguir el siguiente formato:
 ````
 - [Nombre / Título sitio web](URL documentación API): Descripción corta de qué se trata este servicio, en general se encuentra en la misma URL ingresada anteriormente.
 ````
+
+### Agradecimientos
+
+Lista de APIS extraida del repo de [@JuanBrujo](https://github.com/juanbrujo/listado-apis-publicas-en-chile)
+
